@@ -1,0 +1,17 @@
+{
+  "name": "csino-ai-bot",
+  "version": "0.1.0",
+  "description": "CSINO AI - Premium Discord casino bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "CSINO AI",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^3.2.3",
+    "discord.js": "^14.26.4",
+    "dotenv": "^17.4.2",
+    "node-cron": "^3.0.0"
+  }
+}
